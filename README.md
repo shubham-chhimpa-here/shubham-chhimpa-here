@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shubham Chhimpa</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shubham-chhimpa-here&label=Profile%20views&color=0e75b6&style=flat" alt="shubham chhimpa" /> </p><h1 align="center">Hi 👋, I'm Shubham Chhimpa</h1> 
 <h3 align="center">A passionate frontend developer from Rajasthan, India. <br/> Looking forward to joining a company
 where I will be able to contribute towards individual
 and company growth. </h3>
 
-<h1></h1>
+
+
 
 - 🌱 I’m currently learning **MERN** Stack
 - 💞️ I’m looking to collaborate on ReactJS to enhance my coding skills
@@ -41,7 +42,7 @@ and company growth. </h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-chhimpa-here" alt="shubham chhimpa" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-chhimpa-here&label=Profile%20views&color=0e75b6&style=flat" alt="shubham chhimpa" /> </p>
+
 <!---
 shubham-chhimpa-here/shubham-chhimpa-here is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
